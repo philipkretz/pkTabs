@@ -1,0 +1,28 @@
+{
+    "name": "pkTabs",
+    "title": "pkTabs",
+    "description": "A simple tab group for most use cases",
+    "keywords": [
+        "tabs",
+        "form",
+		"animation",
+		"simple",
+		"Philip Kretz",
+		"pk",
+		"tab group"
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "Philip Kretz",
+        "url": "http://www.philipkretz.de"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
