@@ -1,5 +1,5 @@
 {
-    "name": "pkTabs",
+    "name": "pktabs",
     "title": "pkTabs",
     "description": "A simple tab group for most use cases",
     "keywords": [
@@ -7,11 +7,10 @@
         "form",
 		"animation",
 		"simple",
-		"Philip Kretz",
 		"pk",
-		"tab group"
+		"tabgroup"
     ],
-    "version": "0.1",
+    "version": "0.1.0",
     "author": {
         "name": "Philip Kretz",
         "url": "http://www.philipkretz.de"
