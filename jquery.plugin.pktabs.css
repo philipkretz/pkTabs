@@ -1,0 +1,39 @@
+/*
+ * 
+ * pkTabs - A simple tab group for most use cases.
+ * Version 0.1.0
+ * @requires jQuery v1.5
+ * 
+ * Copyright (c) 2014 Philip Kretz
+ * Website: http://www.philipkretz.de
+ * Published for free use under MIT license:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+ 
+ .tabLinkShow {
+	text-decoration: none;
+	background: #efefef;
+ }
+ 
+ .tabLinkHide {
+	text-decoration: underline;
+	background: #ddd;
+ }
+ 
+ .tabLink {
+	border: 1px solid #aaa;
+	padding: 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin: 0;
+ }
+ 
+  a.tabLink, a.tabLink:hover, a.tabLink:visited, a.tabLink:active {
+	color: #333;
+  }
+ 
+ .tab {
+	margin-top: 1px;
+	padding: 15px;
+	border: 1px solid #aaa;
+ }
