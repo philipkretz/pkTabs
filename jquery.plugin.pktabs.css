@@ -1,7 +1,7 @@
 /*
  * 
  * pkTabs - A simple tab group for most use cases.
- * Version 0.1.1
+ * Version 0.1.2
  * @requires jQuery v1.5
  * 
  * Copyright (c) 2014 Philip Kretz
